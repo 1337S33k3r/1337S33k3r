@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amy aka @1337S33k3r
-- 👀 I’m interested in networking specialists - particularly in the Java, Platforms, .Net, Azure, and AWS spaces.
+- 👀 I’m interested in networking with specialists - particularly in the Java, Platforms, .Net, Azure, and AWS spaces.
 - 🌱 I’m currently learning about Python
 - 📫 How to reach me https://www.linkedin.com/in/amy-boorman/
 
